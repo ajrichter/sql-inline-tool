@@ -1,0 +1,5 @@
+name,type,sql,expect_empty
+no_null_ids,sql_assertion,"SELECT * FROM target WHERE id IS NULL",true
+no_duplicate_ids,sql_assertion,"SELECT id, COUNT(*) as cnt FROM target GROUP BY id HAVING COUNT(*) > 1",true
+all_depts_mapped,sql_assertion,"SELECT * FROM target t LEFT JOIN mapping m ON t.department_code = m.new_code WHERE m.new_code IS NULL",true
+has_records,sql_assertion,"SELECT 1 FROM target LIMIT 1",false
