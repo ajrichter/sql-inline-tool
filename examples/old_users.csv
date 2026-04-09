@@ -1,8 +1,0 @@
-user_id,first_name,last_name,email,dept_code,role_id,salary,is_active,created_date
-1,Alice,Smith,alice@example.com,ENG,1,95000.00,1,2023-01-15
-2,Bob,Jones,bob@example.com,MKT,2,72000.00,1,2023-02-20
-3,Carol,Williams,carol@example.com,ENG,1,105000.00,1,2023-03-10
-4,Dave,Brown,dave@example.com,FIN,3,88000.00,0,2022-11-01
-5,Eve,Davis,eve@example.com,MKT,2,67000.00,1,2023-06-15
-6,Frank,Miller,frank@example.com,HR,4,78000.00,1,2023-04-01
-7,Grace,Wilson,grace@example.com,OPS,5,91000.00,0,2022-08-20

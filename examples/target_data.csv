@@ -1,6 +1,0 @@
-id,name,department_code,salary,status
-1,Alice,ENGINEERING,95000,active
-2,Bob,MARKETING,72000,active
-3,Carol,ENGINEERING,105000,active
-4,Dave,FINANCE,88000,inactive
-5,Eve,MARKETING,67000,active

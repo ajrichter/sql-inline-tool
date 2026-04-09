@@ -1,6 +1,0 @@
-id,department_code,dept_name,manager_id,budget
-1,ENG,Engineering,1,500000.00
-2,MKT,Marketing,2,300000.00
-3,FIN,Finance,4,250000.00
-4,HR,Human Resources,6,200000.00
-5,OPS,Operations,7,350000.00
